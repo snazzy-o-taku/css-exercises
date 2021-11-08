@@ -1,0 +1,19 @@
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+
+#even-this {
+    color: blue;
+    font-size: 36px;
+}
+
+#cooler {
+    font-size: 24px;
+}
+
+#even-that {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
